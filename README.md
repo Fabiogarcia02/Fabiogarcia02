@@ -1,11 +1,11 @@
 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 # 👨🏻‍💻 Fábio Garcia
 
-**`Desenvolvedora FullStack`**
+
 
 Me chamo Fábio Garcia Martins, tenho 18 anos e sou natural de Belo-Horizonte. Atualmente, estou cursando Engenharia de Software na PUC- Minas.  
+
+
 
 
 
@@ -36,14 +36,12 @@ Me chamo Fábio Garcia Martins, tenho 18 anos e sou natural de Belo-Horizonte. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.flaticon.com/br/icone-gratis/letra-c_3665923?term=c&page=1&position=3&origin=tag&related_id=3665923" 
-/>
+
+
+
+
+
+
 
 
 <img 
@@ -54,6 +52,19 @@ Me chamo Fábio Garcia Martins, tenho 18 anos e sou natural de Belo-Horizonte. A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://devicon-website.vercel.app/api/c/original.svg"
+/>
+
+
+
 
 
 
@@ -76,3 +87,4 @@ Me chamo Fábio Garcia Martins, tenho 18 anos e sou natural de Belo-Horizonte. A
   />
 
 </p>
+
