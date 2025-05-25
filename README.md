@@ -68,7 +68,7 @@ Atualmente, estou cursando Engenharia de Software na PUC Minas  (2025-2028)
 <div> 
 </div>
 
-<br><br
+<br> 
 
 ### 📊 Estatísticas
 <div> 
@@ -88,9 +88,10 @@ Atualmente, estou cursando Engenharia de Software na PUC Minas  (2025-2028)
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+
 </p>
   ### redes sociais !
- 
+ <br>
 <div> 
   <a href="https://www.instagram.com/fabiogmartins06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "fabiogarciamartins2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
