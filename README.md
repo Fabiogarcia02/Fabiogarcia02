@@ -80,7 +80,7 @@ Atualmente, estou cursando Engenharia de Software na PUC Minas  (2025-2028)
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Fabiogarcia02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <img 
       align="left" 
       alt="GitHub Stats" 
