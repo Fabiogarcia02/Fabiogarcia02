@@ -4,7 +4,7 @@
 
 
 Me chamo Fábio Garcia Martins, tenho 19 anos e sou natural de Belo-Horizonte. <br>
-Atualmente, estou cursando Engenharia de Software na PUC Minas.  
+Atualmente, estou cursando Engenharia de Software na PUC Minas  (2025-2028)
 
 
 
