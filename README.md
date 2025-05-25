@@ -71,7 +71,7 @@ Atualmente, estou cursando Engenharia de Software na PUC Minas  (2025-2028)
 
 
 ### 📊 Estatísticas
-
+<div> 
 <p>
   <img 
     align="left" 
@@ -87,7 +87,7 @@ Atualmente, estou cursando Engenharia de Software na PUC Minas  (2025-2028)
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+</div>
 </p>
   ### redes sociais !
  
