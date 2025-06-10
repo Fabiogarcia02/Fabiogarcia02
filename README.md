@@ -1,4 +1,4 @@
-👨🏻‍💻 Fábio Garcia Martins
+👨🏻‍💻 Fábio Garcia Martins <br>
 Olá! Me chamo Fábio Garcia Martins, tenho 19 anos e sou natural de Belo Horizonte - MG.
 Atualmente, estou cursando Engenharia de Software na PUC Minas (2025–2028).
 
