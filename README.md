@@ -1,5 +1,5 @@
 <div>
-  <img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
+  <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
 </div>
 
 <div align="center">
