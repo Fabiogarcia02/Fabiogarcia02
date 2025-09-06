@@ -1,3 +1,7 @@
+<div>
+<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
+</div>
+
 👨🏻‍💻 Fábio Garcia Martins <br>
 Olá! Me chamo Fábio Garcia Martins, tenho 19 anos e sou natural de Belo Horizonte - MG.<br>
 Atualmente, estou cursando Engenharia de Software na PUC Minas.
