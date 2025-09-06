@@ -10,7 +10,8 @@
 </tr> 
 <tr>
 
-<td><a href="https://github.com/Fabiogarcia02" target="_blank"><img src="https://github.com/Fabiogarcia02" width="50px" height="50px"/></a>
+  <a href="https://github.com/Fabiogarcia02" target="_blank">
+    <img src="https://github.com/Fabiogarcia02.png" width="50px" height="50px" alt="GitHub"/>
 </td>
 <td><a href="mailto:fabiogarciamartins2025@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
