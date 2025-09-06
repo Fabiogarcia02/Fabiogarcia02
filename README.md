@@ -2,8 +2,8 @@
   <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
 </div>
 
-<div align="center">
-  🌐 <b>Redes Sociais</b>
+<div align="center">   
+<h2 align="center" style="color:#8ab4f8;">Redes Sociais 🌐  </h2>
   <table>
     <tr>
       <td align="center" colspan="11"></td>
