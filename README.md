@@ -42,9 +42,13 @@
 </div>
 
 <div align="justify">
-  <i><b>Olá</b> :wave:, sou o <code>Fábio</code>, moro em BH e estudo programação e desenvolvimento web.  
-  Estou construindo meus projetos e aprendendo cada vez mais sobre <code>tecnologia</code> :computer:.  
-  Confira meu GitHub: <a href="https://github.com/Fabiogarcia02" target="_blank">github.com/Fabiogarcia02</a></i>
+<div align="justify">
+  <i>
+    <b>Olá</b> :wave:, sou o <code>Fábio</code>, tenho 19 anos e sou natural de Belo Horizonte.  
+    Atualmente estudo <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> :man_student:.  
+    Estou construindo meus projetos e aprendendo cada vez mais sobre <code>tecnologia</code> :computer:.  
+    Confira meu GitHub: <a href="https://github.com/Fabiogarcia02" target="_blank">github.com/Fabiogarcia02</a> :technologist:
+  </i>
 </div>
 
 ---
