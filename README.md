@@ -35,14 +35,22 @@
     </tr> 
   </table>
 </div>
-
-<div align="justify">
-  <i>
-    <b>Olá</b> :wave:, sou o <code>Fábio</code>, tenho 19 anos e sou natural de Belo Horizonte.  
-    Atualmente estudo <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> :man_student:.  
-    Estou construindo meus projetos e aprendendo cada vez mais sobre <code>tecnologia</code> :computer: :technologist:
-  </i>
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <div align="justify">
+        <i>
+          <b>Olá</b> :wave:, sou o <code>Fábio</code>, tenho 19 anos e sou natural de Belo Horizonte.  
+          Atualmente estudo <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> :man_student:.  
+          Estou construindo meus projetos e aprendendo cada vez mais sobre <code>tecnologia</code> :computer: :technologist:
+        </i>
+      </div>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hacker.gif?raw=true" width="200px" alt="Hacker GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
