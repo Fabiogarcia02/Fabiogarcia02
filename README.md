@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  🌐 <b>Redes Sociais</b>
   <table>
     <tr>
       <td align="center" colspan="11"></td>
@@ -70,16 +71,3 @@
 
 ---
 
-🌐 <b>Redes Sociais</b>
-
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.instagram.com/fabiogmartins06/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:fabiogarciamartins2019@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fabio-garcia-martins-b98747346/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
