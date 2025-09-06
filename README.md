@@ -43,9 +43,9 @@
 
 <div align="justify">
   <i>
-    <b>Olá</b> :wave:, sou o <code>Fábio</code>, tenho 19 anos e sou natural de Belo Horizonte.  
-    Atualmente estudo <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> :man_student:.  
-    Estou construindo meus projetos e aprendendo cada vez mais sobre <code>tecnologia</code> :computer: :technologist:
+    <b>Olá</b> :wave:, sou o <code>Fábio</code>, tenho 19 anos e sou de Belo Horizonte.  
+    Estudo <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> :man_student:.  
+    Estou sempre aprendendo e criando projetos em <code>tecnologia</code> :computer: :technologist:
   </i>
 </div>
 
