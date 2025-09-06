@@ -10,11 +10,6 @@
     </tr> 
     <tr>
       <td>
-        <a href="https://github.com/Fabiogarcia02" target="_blank">
-          <img src="https://github.com/Fabiogarcia02.png" width="50px" height="50px" alt="GitHub"/>
-        </a>
-      </td>
-      <td>
         <a href="mailto:fabiogarciamartins2025@gmail.com" target="_blank">
           <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="Gmail"/>
         </a>
@@ -49,8 +44,6 @@
   </i>
 </div>
 
-
-
 ---
 
 🤖 <b>Linguagens e Tecnologias</b>
@@ -72,6 +65,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabiogarcia02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
-
----
-
