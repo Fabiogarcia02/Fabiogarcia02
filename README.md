@@ -54,9 +54,9 @@
 
 ---
 
-🤖 <b>Linguagens e Tecnologias</b>
+<h2 align="center" style="color:#8ab4f8;">🤖 Linguagens e Tecnologias</h2>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px"/>
@@ -64,8 +64,6 @@
   <img src="https://devicon-website.vercel.app/api/c/original.svg" title="C" alt="C" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40px"/>
 </div>
-
----
 
 📊 <b>Estatísticas GitHub</b>
 
