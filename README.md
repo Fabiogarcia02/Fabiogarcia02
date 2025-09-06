@@ -3,7 +3,7 @@
 </div>
 
 👨🏻‍💻 Fábio Garcia Martins <br>
-Olá! Me chamo Fábio Garcia Martins, tenho 19 anos e sou natural de Belo Horizonte - MG.<br>
+Olá! Me chamo Fábio, tenho 19 anos e sou natural de Belo Horizonte - MG.<br>
 Atualmente, estou cursando Engenharia de Software na PUC Minas.
 
 🤖 Linguagens e Tecnologias
