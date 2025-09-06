@@ -10,7 +10,7 @@
 </tr> 
 <tr>
 
-<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="[https://joaopauloaramuni.github.io/image/github5.png?raw=true](https://github.com/Fabiogarcia02)" width="50px" height="50px"/></a>
+<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/Fabiogarcia02" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:fabiogarciamartins2025@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
