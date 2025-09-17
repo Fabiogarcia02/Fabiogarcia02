@@ -82,8 +82,11 @@
 <h2 align="center" style="color:#8ab4f8;">⏳ Tempo de Programação (WakaTime)</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fabiogarcia02&theme=tokyonight&layout=compact&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fabiogarcia02&theme=tokyonight&cache_seconds=1800"/>
 </div>
+
+
+
 
 
 
