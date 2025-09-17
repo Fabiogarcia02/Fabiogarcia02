@@ -68,6 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40px"/>
 </div>
 
+---
+
 <h2 align="center" style="color:#8ab4f8;">📊 Estatísticas GitHub</h2>
 
 <div align="center">
@@ -75,4 +77,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
 
-<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@Fabiogarcia02">WakaTime</a></td>
+---
+
+<h2 align="center" style="color:#8ab4f8;">⏳ Tempo de Programação (WakaTime)</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fabiogarcia02&theme=tokyonight&layout=compact"/>
+</div>
+
+<p align="center">
+  <a href="https://wakatime.com/@Fabiogarcia02" target="_blank">🔗 Ver perfil completo no WakaTime</a>
+</p>
