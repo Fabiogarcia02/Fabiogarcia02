@@ -48,7 +48,7 @@
       </div>
     </td>
     <td width="40%" align="center">
-      <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hacker.gif?raw=true" width="200px" alt="Hacker GIF"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZvZTc1MzdkcTA2a2E1MzRsMTVnaGYydHM2eXFramI5YXF1czhkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
@@ -76,6 +76,8 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabiogarcia02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"/>
+  <br> 
+  <img src="https://streak-stats.demolab.com/?user=Fabiogarcia02&theme=tokyonight&locale=pt_BR&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
