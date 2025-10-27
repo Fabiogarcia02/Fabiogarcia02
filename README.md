@@ -85,10 +85,10 @@
 
 ---
 
-<h2 align="center" style="color:#8ab4f8;">🐍 Gráfico de Contribuições</h2>
+<h2 align="center" style="color:#8ab4f8;">📅 Calendário de Contribuições</h2>
 
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=Fabiogarcia02&theme=tokyonight&hide_border=true" alt="Snake Contribution Graph"/>
+  <img src="https://github-contributions.vercel.app/api/v1/Fabiogarcia02?theme=dracula" alt="Calendário de Contribuições"/>
 </div>
 ---
 
