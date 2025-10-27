@@ -75,3 +75,25 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fabiogarcia02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&rank_icon=github&layout=compact&title_color=8ab4f8"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=8ab4f8"/>
+  
+  <br> 
+  
+  <img src="https://streak-stats.demolab.com/?user=Fabiogarcia02&theme=tokyonight&locale=pt_BR&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+<h2 align="center" style="color:#8ab4f8;">🔥 Gráfico de Atividade Recente</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github_dark&hide_border=true&area=true" alt="Gráfico de Atividade Recente"/>
+</div>
+---
+
+<h2 align="center" style="color:#8ab4f8;">⏳ Tempo de Programação (WakaTime)</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fabiogarcia02&theme=tokyonight&cache_seconds=1800&hide_border=true&layout=compact&title_color=8ab4f8"/>
+</div>
