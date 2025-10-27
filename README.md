@@ -85,10 +85,10 @@
 
 ---
 
-<h2 align="center" style="color:#8ab4f8;">🔥 Gráfico de Contribuições</h2>
+<h2 align="center" style="color:#8ab4f8;">🐍 Gráfico de Contribuições</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=tokyonight&hide_border=true&color=8ab4f8&line=8ab4f8&point=ffffff&area=true" alt="Gráfico de Contribuições"/>
+  <img src="https://github-readme-snake.vercel.app/api?username=Fabiogarcia02&theme=tokyonight&hide_border=true" alt="Snake Contribution Graph"/>
 </div>
 ---
 
