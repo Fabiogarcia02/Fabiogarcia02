@@ -1,39 +1,42 @@
-<div>
-  <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
+<!-- HEADER -->
+<div align="center">
+  <img alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true" width="100%"/>
 </div>
 
+<!-- REDES SOCIAIS -->
 <div align="center">
-  <h2 align="center" style="color:#8ab4f8;">Redes Sociais 🌐</h2>
+  <h2 style="color:#8ab4f8;">Redes Sociais 🌐</h2>
   <table>
-    <tr><td align="center" colspan="11"></td></tr>
+    <tr><td colspan="11"></td></tr>
     <tr>
       <td>
         <a href="mailto:fabiogarciamartins2025@gmail.com" target="_blank">
-          <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="Gmail"/>
+          <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50" height="50" alt="Gmail"/>
         </a>
       </td>
       <td>
         <a href="https://wa.me/5531998992834" target="_blank">
-          <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/>
+          <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50" height="50" alt="WhatsApp"/>
         </a>
       </td>
       <td>
         <a href="https://www.instagram.com/fabiogmartins06" target="_blank">
-          <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px" alt="Instagram"/>
+          <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50" height="50" alt="Instagram"/>
         </a>
       </td>
       <td>
         <a href="https://www.linkedin.com/in/fabio-garcia-martins-b98747346" target="_blank">
-          <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px" alt="LinkedIn"/>
+          <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50" height="50" alt="LinkedIn"/>
         </a>
       </td>
     </tr>
-    <tr><td align="center" colspan="11"></td></tr>
+    <tr><td colspan="11"></td></tr>
   </table>
 </div>
 
 ---
 
+<!-- BIO -->
 <table>
   <tr>
     <td width="60%">
@@ -55,9 +58,10 @@
 
 ---
 
+<!-- TECNOLOGIAS -->
 <h2 align="center" style="color:#8ab4f8;">🤖 Linguagens e Tecnologias</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
+<div align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap; margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"/>
@@ -71,6 +75,7 @@
 
 ---
 
+<!-- ESTATÍSTICAS -->
 <h2 align="center" style="color:#8ab4f8;">📊 Estatísticas GitHub</h2>
 
 <div align="center">
@@ -80,6 +85,7 @@
 
 ---
 
+<!-- WAKATIME -->
 <h2 align="center" style="color:#8ab4f8;">⏳ Tempo de Programação (WakaTime)</h2>
 
 <div align="center">
