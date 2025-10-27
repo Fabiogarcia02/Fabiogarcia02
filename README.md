@@ -14,7 +14,7 @@
       </td>
       <td>
         <a href="https://wa.me/5531998992834" target="_blank">
-          <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/>
+          <img src="httpsa://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/>
         </a>
       </td>
       <td>
@@ -85,10 +85,10 @@
 
 ---
 
-<h2 align="center" style="color:#8ab4f8;">📅 Calendário de Contribuições</h2>
+<h2 align="center" style="color:#8ab4f8;">🔥 Gráfico de Atividade Recente</h2>
 
 <div align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/Fabiogarcia02?theme=dracula" alt="Calendário de Contribuições"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=tokyonight&hide_border=true&color=8ab4f8&line=8ab4f8&point=ffffff&area=true&area_color=8ab4f8" alt="Gráfico de Atividade Recente"/>
 </div>
 ---
 
