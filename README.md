@@ -14,7 +14,7 @@
       </td>
       <td>
         <a href="https://wa.me/5531998992834" target="_blank">
-          <img src="httpsa://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/>
+          <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/>
         </a>
       </td>
       <td>
@@ -58,15 +58,16 @@
 <h2 align="center" style="color:#8ab4f8;">🤖 Linguagens e Tecnologias</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++" alt="C++"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="VSCode" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub"/>
 </div>
 
 ---
@@ -90,6 +91,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github_dark&hide_border=true&area=true" alt="Gráfico de Atividade Recente"/>
 </div>
+
 ---
 
 <h2 align="center" style="color:#8ab4f8;">⏳ Tempo de Programação (WakaTime)</h2>
