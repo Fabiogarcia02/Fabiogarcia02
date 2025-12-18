@@ -126,5 +126,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faibola02&theme=tokyonight&cache_seconds=1800&hide_border=true&layout=compact&title_color=8ab4f8" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faibola02&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&title_color=8ab4f8" />
 </div>
+
