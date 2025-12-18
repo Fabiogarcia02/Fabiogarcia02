@@ -104,10 +104,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=8ab4f8"/>
   
   <br> 
-<img 
-  src="https://streak-stats.demolab.com?user=Fabiogarcia02&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak"
-/>
 
 </div>
 
