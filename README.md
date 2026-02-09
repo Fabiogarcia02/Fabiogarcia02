@@ -94,24 +94,10 @@
 
 </div>
 
----
-
-<h2 align="center" style="color:#8ab4f8;">📊 Estatísticas GitHub</h2>
 
 
 <h2 align="center" style="color:#8ab4f8;">🔥 Gráfico de Atividade Recente</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github_dark&hide_border=true&area=true" alt="Gráfico de Atividade Recente"/>
-</div>
-
----
-
-<h2 align="center" style="color:#8ab4f8;">⏳ Tempo de Programação (WakaTime)</h2>
 
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faibola02&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&title_color=8ab4f8" />
-</div>
 
