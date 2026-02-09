@@ -98,16 +98,6 @@
 
 <h2 align="center" style="color:#8ab4f8;">📊 Estatísticas GitHub</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabiogarcia02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&rank_icon=github&layout=compact&title_color=8ab4f8"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=8ab4f8"/>
-  
-  <br> 
-
-</div>
-
----
 
 <h2 align="center" style="color:#8ab4f8;">🔥 Gráfico de Atividade Recente</h2>
 
