@@ -58,14 +58,14 @@
 <table align="center">
   <tr>
     <th align="center">🎨 Front-end</th>
-    <th align="center">⚙️ Back-end & Tools</th>
+    <th align="center">⚙️ Back-end</th>
   </tr>
   <tr>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" alt="Front-end Skills"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs,postgres,java,php,cpp,git" alt="Back-end Skills"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres,java,git" alt="Back-end Skills"/>
     </td>
   </tr>
 </table>
