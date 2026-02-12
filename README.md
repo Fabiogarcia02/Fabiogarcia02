@@ -59,48 +59,40 @@
 
 <div align="center">
 
-  <!-- React -->
   <img src="https://skillicons.dev/icons?i=react" width="60" alt="React" title="React"/>
 
-  <!-- TypeScript -->
   <img src="https://skillicons.dev/icons?i=ts" width="60" alt="TypeScript" title="TypeScript"/>
 
-  <!-- JavaScript -->
   <img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript" title="JavaScript"/>
 
-  <!-- HTML -->
   <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5" title="HTML5"/>
 
-  <!-- CSS -->
   <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3" title="CSS3"/>
 
-  <!-- Tailwind CSS -->
   <img src="https://skillicons.dev/icons?i=tailwind" width="60" alt="TailwindCSS" title="TailwindCSS"/>
 
-  <!-- PHP -->
+  <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" title="Java"/>
+
   <img src="https://skillicons.dev/icons?i=php" width="60" alt="PHP" title="PHP"/>
 
-  <!-- C -->
   <img src="https://skillicons.dev/icons?i=c" width="60" alt="C" title="C"/>
 
-  <!-- C++ -->
   <img src="https://skillicons.dev/icons?i=cpp" width="60" alt="C++" title="C++"/>
 
-  <!-- Git -->
   <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git" title="Git"/>
 
-  <!-- GitHub -->
   <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" title="GitHub"/>
 
 </div>
 
+<h2 align="center" style="color:#8ab4f8;">📊 Estatísticas do GitHub</h2>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+</div>
 
 <h2 align="center" style="color:#8ab4f8;">🔥 Gráfico de Atividade Recente</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github_dark&hide_border=true&area=true" alt="Gráfico de Atividade Recente"/>
 </div>
-
-
-
