@@ -5,7 +5,6 @@
 <div align="center">
   <h2 align="center" style="color:#8ab4f8;">Redes Sociais 🌐</h2>
   <table>
-    <tr><td align="center" colspan="11"></td></tr>
     <tr>
       <td>
         <a href="mailto:fabiogarciamartins2025@gmail.com" target="_blank">
@@ -28,7 +27,6 @@
         </a>
       </td>
     </tr>
-    <tr><td align="center" colspan="11"></td></tr>
   </table>
 </div>
 
@@ -55,42 +53,33 @@
 
 ---
 
-<h2 align="center" style="color:#8ab4f8;">🤖 Linguagens e Tecnologias</h2>
+<h2 align="center" style="color:#8ab4f8;">🤖 Tech Stack</h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th align="center">🎨 Front-end</th>
+    <th align="center">⚙️ Back-end & Tools</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" alt="Front-end Skills"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres,java,php,cpp,git" alt="Back-end Skills"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://skillicons.dev/icons?i=react" width="60" alt="React" title="React"/>
-
-  <img src="https://skillicons.dev/icons?i=ts" width="60" alt="TypeScript" title="TypeScript"/>
-
-  <img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript" title="JavaScript"/>
-
-  <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5" title="HTML5"/>
-
-  <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3" title="CSS3"/>
-
-  <img src="https://skillicons.dev/icons?i=tailwind" width="60" alt="TailwindCSS" title="TailwindCSS"/>
-
-  <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" title="Java"/>
-
-  <img src="https://skillicons.dev/icons?i=c" width="60" alt="C" title="C"/>
-
-  <img src="https://skillicons.dev/icons?i=cpp" width="60" alt="C++" title="C++"/>
-
-  <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git" title="Git"/>
-
-  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" title="GitHub"/>
-
-</div>
+---
 
 <h2 align="center" style="color:#8ab4f8;">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github_dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
 </div>
 
-<h2 align="center" style="color:#8ab4f8;">🔥 Gráfico de Atividade Recente</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github_dark&hide_border=true&area=true" alt="Gráfico de Atividade Recente"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fabiogarcia02&color=8ab4f8&style=flat-square&label=PROFILE+VIEWS" alt="Views"/>
+</p>
