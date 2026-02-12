@@ -73,8 +73,6 @@
 
   <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" title="Java"/>
 
-  <img src="https://skillicons.dev/icons?i=php" width="60" alt="PHP" title="PHP"/>
-
   <img src="https://skillicons.dev/icons?i=c" width="60" alt="C" title="C"/>
 
   <img src="https://skillicons.dev/icons?i=cpp" width="60" alt="C++" title="C++"/>
