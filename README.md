@@ -57,15 +57,15 @@
 
 <table align="center">
   <tr>
-    <th align="center">🎨 Front-end</th>
-    <th align="center">⚙️ Back-end</th>
+    <th align="center" width="300px">🎨 Front-end</th>
+    <th align="center" width="300px">⚙️ Back-end</th>
   </tr>
   <tr>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" alt="Front-end Skills"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs,postgres,java,git" alt="Back-end Skills"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres,java,c,cpp" alt="Back-end Skills"/>
     </td>
   </tr>
 </table>
@@ -75,7 +75,7 @@
 <h2 align="center" style="color:#8ab4f8;">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=compact&langs_count=7&theme=github_dark&hide_border=true&count_private=true" alt="Linguagens mais usadas"/>
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github_dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
 </div>
