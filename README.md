@@ -79,7 +79,6 @@
 </div>
 
 <div align="center">
-  
   <h2 style="color:#8ab4f8;">📌 Porcentagem das Linguagens Mais Usadas</h2>
 
   <img
