@@ -71,8 +71,15 @@
 </table>
 
 ---
+<h2 align="center" style="color:#8ab4f8;">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github_dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
+</div>
+
+<div align="center">
+  
   <h2 style="color:#8ab4f8;">📌 Porcentagem das Linguagens Mais Usadas</h2>
 
   <img
