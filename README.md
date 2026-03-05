@@ -83,3 +83,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fabiogarcia02&color=8ab4f8&style=flat-square&label=PROFILE+VIEWS" alt="Views"/>
 </p>
+<div align="center">
+  <h2 style="color:#8ab4f8;">📌 Porcentagem das Linguagens Mais Usadas</h2>
+
+  <img 
+       height="200em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=donut&theme=github_dark&hide_border=true&langs_count=8"
+       alt="Linguagens mais usadas em gráfico de pizza"
+  />
+</div>
