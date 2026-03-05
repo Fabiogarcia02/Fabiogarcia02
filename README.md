@@ -72,24 +72,12 @@
 
 ---
 
-<h2 align="center" style="color:#8ab4f8;">📊 Estatísticas do GitHub</h2>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=compact&langs_count=7&theme=github_dark&hide_border=true&count_private=true" alt="Linguagens mais usadas"/>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github_dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fabiogarcia02&color=8ab4f8&style=flat-square&label=PROFILE+VIEWS" alt="Views"/>
-</p>
-<div align="center">
- <div align="center">
   <h2 style="color:#8ab4f8;">📌 Porcentagem das Linguagens Mais Usadas</h2>
 
   <img
     height="200em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
     alt="Linguagens mais usadas"
   />
 </div>
