@@ -31,7 +31,7 @@
     <td width="60%">
       <div align="justify">
         <i>
-          <b>Olá</b> 👋, sou o <code>Fábio</code>, tenho 19 anos e sou natural de Belo Horizonte.
+          <b>Olá</b> 👋, sou o <code>Fábio</code>, tenho 20 anos e sou natural de Belo Horizonte.
           Atualmente estudo <code>Engenharia de Software</code> na 
           <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> 🎓.
           Estou construindo meus projetos e aprendendo cada vez mais sobre 
