@@ -16,11 +16,6 @@
           <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px" alt="LinkedIn"/>
         </a>
       </td>
-      <td>
-        <a href="https://www.instagram.com/fabiogmartins06" target="_blank">
-          <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px" alt="Instagram"/>
-        </a>
-      </td>
   </table>
 </div>
 
