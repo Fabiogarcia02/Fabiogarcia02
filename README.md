@@ -1,71 +1,38 @@
-<div>
-  <img
-    align="center"
-    alt="Header"
-    src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"
-  />
+<div align="center">
+  <img alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true" width="100%">
 </div>
+
+<h2 align="center">Redes Sociais 🌐</h2>
 
 <div align="center">
-  <h2 align="center">Redes Sociais 🌐</h2>
-
-  <table>
-    <tr>
-      <td>
-        <a href="mailto:fabiogarciamartins2025@gmail.com" target="_blank">
-          <img
-            src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true"
-            width="50px"
-            height="50px"
-            alt="Gmail"
-          />
-        </a>
-      </td>
-
-```
-  <td>
-    <a href="https://www.linkedin.com/in/fabio-garcia-martins-b98747346" target="_blank">
-      <img
-        src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true"
-        width="50px"
-        height="50px"
-        alt="LinkedIn"
-      />
-    </a>
-  </td>
-</tr>
-```
-
-  </table>
+  <a href="mailto:fabiogarciamartins2025@gmail.com">
+    <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50" height="50" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fabio-garcia-martins-b98747346">
+    <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50" height="50" alt="LinkedIn">
+  </a>
 </div>
+
+<br>
 
 ---
 
 <table>
-  <tr>
-    <td width="60%">
-      <div align="justify">
-        <i>
-          <b>Olá</b> 👋, sou o <code>Fábio</code>, tenho 20 anos e sou natural de Belo Horizonte.
-          Atualmente estudo <code>Engenharia de Software</code> na
-          <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> 🎓.
-          Estou construindo meus projetos e aprendendo cada vez mais sobre
-          <code>tecnologia</code> 💻 👨‍💻
-        </i>
-      </div>
-    </td>
-
-```
-<td width="40%" align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZvZTc1MzdkcTA2a2E1MzRsMTVnaGYydHM2eXFramI5YXF1czhkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
-    width="200px"
-    alt="Coding GIF"
-  />
+<tr>
+<td width="60%">
+<i>
+<b>Olá</b> 👋, sou o <code>Fábio</code>, tenho 20 anos e sou natural de Belo Horizonte.
+Atualmente estudo <code>Engenharia de Software</code> na
+<a href="https://www.pucminas.br/">PUC Minas</a> 🎓.
+Estou construindo meus projetos e aprendendo cada vez mais sobre
+<code>tecnologia</code> 💻 👨‍💻
+</i>
 </td>
-```
-
-  </tr>
+<td width="40%" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZvZTc1MzdkcTA2a2E1MzRsMTVnaGYydHM2eXFramI5YXF1czhkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="Coding GIF">
+</td>
+</tr>
 </table>
 
 ---
@@ -73,67 +40,54 @@
 <h2 align="center">🤖 Tech Stack</h2>
 
 <table align="center">
-  <tr>
-    <th align="center" width="300px">🎨 Front-end</th>
-    <th align="center" width="300px">⚙️ Back-end</th>
-  </tr>
-
-  <tr>
-    <td align="center" valign="top">
-      <img
-        src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind"
-        alt="Front-end Skills"
-      />
-    </td>
-
-```
-<td align="center" valign="top">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,postgres,java,c,cpp"
-    alt="Back-end Skills"
-  />
+<tr>
+<th align="center" width="300">🎨 Front-end</th>
+<th align="center" width="300">⚙️ Back-end</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" alt="Front-end Skills">
 </td>
-```
-
-  </tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,java,c,cpp" alt="Back-end Skills">
+</td>
+</tr>
 </table>
+
+<br>
 
 ---
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-
-<img
- src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github-compact&hide_border=true&area=true"
- width="100%"
- alt="Gráfico de Atividade do GitHub"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Fabiogarcia02&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="Gráfico de Atividade"
+  >
 </div>
 
 <br>
 
 <div align="center">
-
-<img
- height="180em"
- src="https://github-readme-stats.vercel.app/api?username=Fabiogarcia02&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
- alt="Estatísticas do GitHub"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Fabiogarcia02&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Estatísticas do GitHub"
+  >
 </div>
+
+<br>
 
 ---
 
 <h2 align="center">📌 Linguagens Mais Usadas</h2>
 
 <div align="center">
-
-<img
- height="200em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
- alt="Linguagens mais usadas"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiogarcia02&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    height="200"
+    alt="Linguagens mais usadas"
+  >
 </div>
